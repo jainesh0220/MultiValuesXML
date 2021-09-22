@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiValuesSampleXML</string>
+    <string name="str_sample_text">Sample text for multi text size demo.</string>
+</resources>
